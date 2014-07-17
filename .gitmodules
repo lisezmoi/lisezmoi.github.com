@@ -1,0 +1,3 @@
+[submodule "selfishgame"]
+	path = selfishgame
+	url = https://github.com/lisezmoi/selfish-game-challenge.git
