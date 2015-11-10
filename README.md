@@ -1,2 +1,1 @@
-lisezmoi.github.com
-===================
+# [lisezmoi.org](http://lisezmoi.org/)
